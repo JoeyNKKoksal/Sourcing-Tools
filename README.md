@@ -11,11 +11,9 @@ Site:Dribble.com CSS and “javascroipt Eindhiven”
 
 site:xing.com/profile intitle:<job title> intitle:<company> <keywords> 
 
-https://api.github.com/users/username
-
 site:linkedin.com/in “500 million other” Eindhoven ANDROID - Google Search
 
-site:instagram.com (Accessories design)  new york
+site:instagram.com (Accessories design) new york
 
 site:instagram.com (women accessories design) new york
 
@@ -33,4 +31,3 @@ site:bitbucket.org/ "java"
 
 related:GITHUB.COM
 
-https://api.github.com/users/XYZ/events/public
