@@ -7,7 +7,7 @@ https://www.linkedin.com/company/hewlett-packard-enterprise/people/
 
 https://github.com/search/advanced
 
-Site:Dribble.com CSS and “javascroipt Eindhiven”
+Site:Dribble.com CSS and “javascript Eindhoven”
 
 site:xing.com/profile intitle:<job title> intitle:<company> <keywords> 
 
@@ -29,5 +29,5 @@ site:facebook.com (Data engineer) ("Amsterdam"OR AMS) inurl:people
 
 site:bitbucket.org/ "java"
 
-related:GITHUB.COM
+
 
