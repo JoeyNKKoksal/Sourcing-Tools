@@ -5,8 +5,6 @@ site:nl.linkedin.com/in "Android developer” Eindhoven OR Utrecht
 
 site:stackoverflow.com/users "android developer” Eindhoven
 
-https://www.linkedin.com/company/hewlett-packard-enterprise/people/
-
 https://github.com/search/advanced
 
 Site:Dribble.com CSS and “javascript Eindhoven”
